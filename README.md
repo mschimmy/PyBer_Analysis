@@ -8,7 +8,9 @@ This analysis illustrates the differences between city types (rural, suburban, a
 
 ## Results
 ![PyBer summary](https://github.com/mschimmy/PyBer_Analysis/blob/main/Resources/PyBer_summary_df.png)
+
 From the summary DataFrame above, we can see that urban cities had the most amount of rides (13 times more than rural cities and 2.6 times more than suburban cities), the most amount of drivers (approximately 31 times more than rural cities and 5 times more than suburban cities), and the highest total fares amount (approximately 9.2 times more than rural cities and 2.1 times more than suburban cities). The average fare per ride and the average fare per driver is most expensive in rural cities and the least in urban cities.
+
 
 ![PyBer Spring 2019 data](https://github.com/mschimmy/PyBer_Analysis/blob/main/Resources/spring_2019_fares_by_week_df.png)
 ![PyBer Spring 2019 chart](https://github.com/mschimmy/PyBer_Analysis/blob/main/analysis/Total_Fare_by_city_Type.png)
