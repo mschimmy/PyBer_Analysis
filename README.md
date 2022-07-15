@@ -12,7 +12,8 @@ From the summary DataFrame above, we can see that urban cities had the most amou
 
 ![PyBer Spring 2019 data](https://github.com/mschimmy/PyBer_Analysis/blob/main/Resources/spring_2019_fares_by_week_df.png)
 ![PyBer Spring 2019 chart](https://github.com/mschimmy/PyBer_Analysis/blob/main/analysis/Total_Fare_by_city_Type.png)
-The multiple line chart above, Total Fares by City Type, plots the change in total fares in USD from January 2019 through April 2019 for each of the three city types. Again, we can see that urban cities have the highest total amount of fares throughout the Spring 2019, while rural cities have the lowest.
+
+The multiple line chart above, Total Fares by City Type, plots the change in total fares in USD from January 2019 through April 2019 for each of the three city types. Again, we can see that urban cities have the highest total amount of fares throughout Spring 2019, while rural cities have the lowest total fares.
 
 ## Summary
 Based on the results, it is recommended that the CEO of PyBer, V. Visualize, do the following to address disparities among city types:
