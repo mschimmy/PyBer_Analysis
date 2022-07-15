@@ -21,4 +21,4 @@ The multiple line chart above, Total Fares by City Type, plots the change in tot
 Based on the results, it is recommended that the CEO of PyBer, V. Visualize, do the following to address disparities among city types:
 1. Consider adding incentives for customers in rural cities to increase the total number of rides.
 2. Decrease the total number of drivers in urban cities as there were more drivers than total rides in Spring 2019, this will increase the average fare per ride and average fare per driver in urban cities.
-3. Collect data on PyBer rider to determine the average consumer type and adjust marketing strategies to target these population groups.
+3. Collect data on PyBer riders to determine the average consumer type and adjust marketing strategies to target these groups.
